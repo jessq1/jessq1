@@ -4,8 +4,9 @@ __My name is Jessie!__ I am a full-stack developer with background in Architectu
 - 📚 I’m currently learning GSAP and Three.js.
 - 📩 Connect with me on <a href='https://www.linkedin.com/in/jiexiqi/'>LinkedIn</a>!
 
+---
 
-## __Technologies I use:__
+### __Technologies I use:__
 #### 👩‍💻 Languages:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,9 +48,9 @@ __My name is Jessie!__ I am a full-stack developer with background in Architectu
 ![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![image](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
 
+---
 
-
-## __My GitHub Stats:__
+### My GitHub Stats:
 
 [![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessq1&theme=buefy&&hide=stars,contribs)](https://github.com/jessq1/github-readme-stats)
 <!--
