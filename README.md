@@ -2,7 +2,7 @@
 __My name is Jessie!__ I am a full-stack developer with background in Architecture and Psychology. As a design enthusiast, I spcialized in Product Design and Front-End development. 
 - 💻 I’m currently working on a React web application for Designers.
 - 📚 I’m currently learning GSAP and Three.js.
-- 📩 Connect with me on <a href='https://www.linkedin.com/in/jiexiqi/'>LinkedIn</a>!
+- 📩 Connect with me on <a href='https://www.linkedin.com/in/jiexiqi/'> __LinkedIn__ </a>!
 
 ---
 
